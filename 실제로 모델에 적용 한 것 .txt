@@ -1,0 +1,7 @@
+실제로 모델에 적용 한 것 :
+
+data5(6,900개) -> outputimg1(28,000개) -> outputimg2(28,000개) -> outputimg3(29,000개)
+
+outputimg3 -> only2_epoch40(4,300개)
+
+outputimg2 -> train_result_epoch4_all(87,544개)
